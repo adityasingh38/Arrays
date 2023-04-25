@@ -24,7 +24,7 @@ int thirdElement = myArray[2];
 ```
 Arrays in C are zero-indexed, meaning that the first element of an array has an index of 0. So the second element of 'myArray' would have an index of 1, and so on.
 ## Key Points
-Here are some important points about linear search:
+Here are some important points about Arrays:
 
 - Arrays are declared by specifying the data type of the elements in the array, followed by the name of the array, and then the size of the array in square brackets.
 - Arrays in C are zero-indexed, meaning that the first element of an array has an index of 0.
